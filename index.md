@@ -1,282 +1,126 @@
 **Privacy Policy**
-
-Chewon Lee built the Platz app as a Free app. This SERVICE is provided by Chewon Lee at no cost and is intended for use as is.
-
+Chewon Lee built the Platz app as a Commercial app. This SERVICE is provided by Chewon Lee and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Platz unless otherwise defined in this Privacy Policy.
-
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Platz unless otherwise defined in this Privacy Policy.
 **Information Collection and Use**
-
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to primary account, email. The information that I request will be retained on our server and is not shared to any other external service.
+The app does use third-party services that may collect information used to identify you.
+Link to the privacy policy of third-party service providers used by the app
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 **Log Data**
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 **Cookies**
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 **Service Providers**
-
 I may employ third-party companies and individuals due to the following reasons:
-
 *   To facilitate our Service;
 *   To provide the Service on our behalf;
 *   To perform Service-related services; or
 *   To assist us in analyzing how our Service is used.
-
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 **Security**
-
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
 **Links to Other Sites**
-
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
 **Children’s Privacy**
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 **Changes to This Privacy Policy**
-
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2021-06-01
-
+This policy is effective as of 2021-11-26
 **Contact Us**
-
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gameplatz21@gmail.com.
-
 This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
 
-## 개인정보 처리방침
-
-1. 개인정보의 처리 목적 (‘Platz’ 이하 ‘Platz’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
-- 고객 가입의사 확인, 고객에 대한 서비스 제공에 따른 본인 식별.인증, 회원자격 유지.관리, 물품 또는 서비스 공급에 따른 금액 결제, 물품 또는 서비스의 공급.배송 등
-2. 개인정보의 처리 및 보유 기간
-① Platz 은(는) 정보주체로부터 개인정보를 수집할 때 동의 받은 개인정보 보유․이용기간 또는 법령에 따른 개인정보 보유․이용기간 내에서 개인정보를 처리․보유합니다.
-② 구체적인 개인정보 처리 및 보유 기간은 다음과 같습니다.
-☞ 아래 예시를 참고하여 개인정보 처리업무와 개인정보 처리업무에 대한 보유기간 및 관련 법령, 근거 등을 기재합니다.
-(예시)- 고객 가입 및 관리 : 서비스 이용계약 또는 회원가입 해지시까지, 다만 채권․채무관계 잔존시에는 해당 채권․채무관계 정산시까지
-- 전자상거래에서의 계약․청약철회, 대금결제, 재화 등 공급기록 : 5년
-3. 개인정보의 제3자 제공에 관한 사항
-① 당사는 개인정보를 제3자에게 제공하지 않습니다.
-4. 개인정보처리 위탁
-① 당사는 개인정보를 위탁하지 않습니다.
-5. 정보주체와 법정대리인의 권리·의무 및 그 행사방법 이용자는 개인정보주체로써 다음과 같은 권리를 행사할 수 있습니다.
-① 정보주체는 Platz 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
-1. 개인정보 열람요구
-2. 오류 등이 있을 경우 정정 요구
-3. 삭제요구
-4. 처리정지 요구
-6. 처리하는 개인정보의 항목 작성
-① Platz 은(는) 다음의 개인정보 항목을 처리하고 있습니다.
-1 당사는 개인정보를 직접적으로 저장하거나 보유하지 않습니다.
-7. 개인정보의 파기(‘Platz’)은(는) 원칙적으로 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.
--파기절차
-이용자가 입력한 정보는 목적 달성 후 별도의 DB에 옮겨져(종이의 경우 별도의 서류) 내부 방침 및 기타 관련 법령에 따라 일정기간 저장된 후 혹은 즉시 파기됩니다. 이 때, DB로 옮겨진 개인정보는 법률에 의한 경우가 아니고서는 다른 목적으로 이용되지 않습니다.
--파기기한
-이용자의 개인정보는 개인정보의 보유기간이 경과된 경우에는 보유기간의 종료일로부터 5일 이내에, 개인정보의 처리 목적 달성, 해당 서비스의 폐지, 사업의 종료 등 그 개인정보가 불필요하게 되었을 때에는 개인정보의 처리가 불필요한 것으로 인정되는 날로부터 5일 이내에 그 개인정보를 파기합니다.
-8. 개인정보 자동 수집 장치의 설치•운영 및 거부에 관한 사항
-Platz 은 정보주체의 이용정보를 저장하고 수시로 불러오는 ‘쿠키’를 사용하지 않습니다.
-9. 개인정보 보호책임자 작성
-① Platz 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
-▶ 개인정보 보호책임자
-이름: 이채원
-이메일: gameplatz21@gmail.com
-
-② 정보주체께서는 Platz 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. Platz 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
-10. 개인정보 처리방침 변경
-①이 개인정보처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
-11. 개인정보의 안전성 확보 조치 Platz 은(는) 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.
+< platz team >(‘https://platz.games’이하 ‘Platz’)은(는) 「개인정보 보호법」 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리방침을 수립·공개합니다.
+○ 이 개인정보처리방침은 2021년 11월 26부터 적용됩니다.
+제1조(개인정보의 처리 목적)
+< platz team >(‘https://platz.games’이하 ‘Platz’)은(는) 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며 이용 목적이 변경되는 경우에는 「개인정보 보호법」 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.
+1. 홈페이지 회원가입 및 관리
+회원 가입의사 확인, 회원제 서비스 제공에 따른 본인 식별·인증, 회원자격 유지·관리 목적으로 개인정보를 처리합니다.
+2. 민원사무 처리
+민원인의 신원 확인, 처리결과 통보 목적으로 개인정보를 처리합니다.
+제2조(개인정보의 처리 및 보유 기간)
+① < platz team >은(는) 법령에 따른 개인정보 보유·이용기간 또는 정보주체로부터 개인정보를 수집 시에 동의받은 개인정보 보유·이용기간 내에서 개인정보를 처리·보유합니다.
+② 각각의 개인정보 처리 및 보유 기간은 다음과 같습니다.
+1.<홈페이지 회원가입 및 관리>
+<홈페이지 회원가입 및 관리>와 관련한 개인정보는 수집.이용에 관한 동의일로부터<3년>까지 위 이용목적을 위하여 보유.이용됩니다.
+보유근거 : 사용자 불만 처리
+관련법령 : 소비자의 불만 또는 분쟁처리에 관한 기록 : 3년
+제3조(개인정보의 제3자 제공)
+① < platz team >은(는) 개인정보를 제1조(개인정보의 처리 목적)에서 명시한 범위 내에서만 처리하며, 정보주체의 동의, 법률의 특별한 규정 등 「개인정보 보호법」 제17조 및 제18조에 해당하는 경우에만 개인정보를 제3자에게 제공합니다.
+제4조(정보주체와 법정대리인의 권리·의무 및 그 행사방법)
+① 정보주체는 platz team에 대해 언제든지 개인정보 열람·정정·삭제·처리정지 요구 등의 권리를 행사할 수 있습니다.
+② 제1항에 따른 권리 행사는platz team에 대해 「개인정보 보호법」 시행령 제41조제1항에 따라 서면, 전자우편, 모사전송(FAX) 등을 통하여 하실 수 있으며 platz team은(는) 이에 대해 지체 없이 조치하겠습니다.
+③ 제1항에 따른 권리 행사는 정보주체의 법정대리인이나 위임을 받은 자 등 대리인을 통하여 하실 수 있습니다.이 경우 “개인정보 처리 방법에 관한 고시(제2020-7호)” 별지 제11호 서식에 따른 위임장을 제출하셔야 합니다.
+④ 개인정보 열람 및 처리정지 요구는 「개인정보 보호법」 제35조 제4항, 제37조 제2항에 의하여 정보주체의 권리가 제한 될 수 있습니다.
+⑤ 개인정보의 정정 및 삭제 요구는 다른 법령에서 그 개인정보가 수집 대상으로 명시되어 있는 경우에는 그 삭제를 요구할 수 없습니다.
+⑥ platz team은(는) 정보주체 권리에 따른 열람의 요구, 정정·삭제의 요구, 처리정지의 요구 시 열람 등 요구를 한 자가 본인이거나 정당한 대리인인지를 확인합니다.
+제5조(처리하는 개인정보의 항목 작성)
+① < platz team >은(는) 다음의 개인정보 항목을 처리하고 있습니다.
+1< 홈페이지 회원가입 및 관리 >
+필수항목 : 이메일, 프로필 사진 등 애플, 구글 로그인 기본 정보
+선택항목 : 없음
+제6조(개인정보의 파기)
+① < platz team > 은(는) 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다.
+② 정보주체로부터 동의받은 개인정보 보유기간이 경과하거나 처리목적이 달성되었음에도 불구하고 다른 법령에 따라 개인정보를 계속 보존하여야 하는 경우에는, 해당 개인정보를 별도의 데이터베이스(DB)로 옮기거나 보관장소를 달리하여 보존합니다.
+1. 법령 근거 :
+2. 보존하는 개인정보 항목 : 계좌정보, 거래날짜
+③ 개인정보 파기의 절차 및 방법은 다음과 같습니다.
+1. 파기절차
+< platz team > 은(는) 파기 사유가 발생한 개인정보를 선정하고, < platz team > 의 개인정보 보호책임자의 승인을 받아 개인정보를 파기합니다.
+2. 파기방법
+전자적 파일 형태의 정보는 기록을 재생할 수 없는 기술적 방법을 사용합니다
+제7조(개인정보의 안전성 확보 조치)
+< platz team >은(는) 개인정보의 안전성 확보를 위해 다음과 같은 조치를 취하고 있습니다.
 1. 정기적인 자체 감사 실시
 개인정보 취급 관련 안정성 확보를 위해 정기적(분기 1회)으로 자체 감사를 실시하고 있습니다.
 2. 내부관리계획의 수립 및 시행
 개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다.
-
-
-## 이용약관
-# 제 1장 총 칙
-
-제 1 조 (목적)
-
-이 약관은 회원이 플라츠 (이하 "플라츠") 를 이용함에 있어 회원과 운영주체간의 권리, 의무 및 책임사항, 하나의 아이디 및 비밀 번호로 통합하여 이용하는데 따른 이용조건 및 절차에 관한 사항과 기타 필요한 사항을 구체적으로 규정함을 목적으로 합니다.
-
-제 2 조 (약관의 효력 및 변경)
-
-① 이 약관은 서비스를 이용하고자 하는 모든 회원에 대하여 그 효력을 발생합니다.
-② 이 약관의 내용은 서비스 화면에 게시하거나 기타의 방법으로 회원에게 공시하고, 이에 동의한 회원이 서비스에 가입함으로써 효력이 발생합니다.
-③ 운영주체는 필요하다고 인정되는 경우 이 약관을 변경할 수 있으며, 약관이 변경된 경우에는 지체 없이 제2항과 같은 방법으로 공시합니다. 다만, 이용자의 권리 또는 의무에 관한 중요한 규정의 변경은 최소한 7일전에 공시합니다.
-④ 이용자는 변경된 약관 사항에 동의하지 않으면 서비스 이용을 중단하고 이용 계약을 해지할 수 있습니다.
-
-제 3 조 (약관 외 준칙)
-
-이 약관에 명시되지 않은 사항이 관계법령에 규정되어 있을 경우에는 그 규정에 따릅니다.
-
-제 4 조 (용어의 정의)
-
-(1) 플라츠: 운영주체가 운영하는 서비스를 말하며, 통합된 하나의 아이디 및 비밀번호를 이용하여 서비스를 제공받을 수 있는 아래의 사이트를 의미합니다.
-- Platz
-(2) 회원 : 플라츠에 로그인하여 본 약관에 따라 운영주체가 제공하는 서비스를 이용하는 이용자 
-(3) 이용자 : 사이트에 접속하여 서비스를 이용하는 회원 및 비회원
-(4) 탈퇴 : 운영주체 또는 회원이 회원가입 후 이용계약을 해약하는 것
-
-# 제 2장 서비스 이용 계약
-
-제 5 조 (이용계약의 성립)
-
-(1) 이용계약은 이용자의 본 이용약관 내용에 대한 동의와 이용신청에 대하여 운영주체의 이용승낙으로 성립합니다.
-(2) 본 이용약관에 대한 동의는 이용신청 당시 해당 웹에 회원으로 가입함으로서 의사표시를 합니다.
-
-제 6 조 (서비스 이용 신청)
-
-(1) 회원으로 가입하여 본 서비스를 이용하고자 하는 이용자는 운영주체에서 요청하는 제반정보 (이메일, 프로필 사진 등) 를 제공하여야 하며, 회사가 서비스 개선 등의 목적으로 회원의 동의 하에 추가적인 개인 정보를 요구할 수 있습니다.
-(2) 운영주체는 다음 각 호에 해당하는 이용계약 신청에 대하여는 이를 승낙하지 아니합니다.
-① 타인의 명의를 사용하여 신청하였을 때
-② 부정한 용도로 본 서비스를 이용하고자 하는 경우
-③ 이용계약신청서의 내용을 허위로 기재하여 신청한 경우
-④ 사회의 안녕 질서 혹은 미풍양속을 저해할 목적으로 신청한 경우
-⑤ 기타 운영주체가 정한 이용 신청 요건이 미비된 경우
-(3) 운영주체는 이용자가 관계법령에서 규정하는 미성년자일 경우에 승낙을 보류할 수 있습니다
-
-# 제 3장 서비스 제공 및 이용
-
-제7조 (통합회원제)
-
-(1) 회원은 통합된 하나의 계정(구글, 애플 등의 기 계정 연결)을 통해 본 약관 제4조 제1항에 명기한 사이트의 서비스를 이용할 수 있습니다.
-(2) 운영주체는 일부 사이트의 특정 서비스를 제공하기 위해 회원에게 별도 또는 추가적인 가입절차를 요청할 수 있습니다.
-(3) 운영주체는 회원이 사이트 및 서비스를 쉽게 이용할 수 있도록 회원의 ID를 포함한 통합회원제를 관리하거나 사이트 또는 서비스를 개선, 변경할 수 있습니다.
-(4) 회원의 최초 서비스 이용신청 이후 운영주체의 사이트가 늘어나거나 줄어든 경우에도 별도 약관으로 명시하지 않는 한 본 약관이 적용되며, 운영주체는 신규 사이트 또는 서비스 개시에 대한 정보를 사이트에 공지하거나 회원의 전자우편으로 알릴 수 있습니다.
-
-제 8조 (서비스의 내용)
-
-(1) 운영주체가 제공하는 서비스 형태는 다음과 같습니다.
-- Platz: 게임을 함께 플레이 할 수 있도록 특정 조건을 만족하는 불특정 다수와 플랫폼 상에서 모일 수 있는 서비스를 제공
-(2) 운영주체는 필요한 경우 서비스의 내용을 추가 또는 변경할 수 있습니다.
-
-제 9 조 (서비스의 요금)
-
-운영주체가 제공하는 서비스는 무료 또는 유료로 구분하여 제공합니다.
-
-제 10 조 (서비스 이용)
-
-(1) 서비스 이용은 회사 의 업무상 또는 기술상 특별한 지장이 없는 한 연중무휴, 1일 24시간을 원칙으로 합니다.
-(2) 운영주체는 시스템 등 장치의 보수점검 교체, 시스템의 고장, 통신의 두절, 기타 불가항력적 사유가 발생한 경우에는 서비스의 제공을 일시적으로 중단할 수 있습니다.
-(3) 운영주체는 제2항의 사유로 인하여 이용자 또는 제3자가 입은 손해에 대하여는 배상하지 아니 합니다.
-(4) 운영주체는 회원에게 서비스 이용에 필요가 있다고 인정되는 각종 정보에 대해서 전자우편이나 서신우편 등의 방법으로 회원에게 제공할 수 있습니다.
-
-# 제 4장 책임과 의무
-
-제 11 조 (개인정보의 보호 및 사용)
-
-(1) 이용주체는 이용자의 정보 수집 시 서비스의 제공에 필요한 최소한의 정보를 수집합니다. 아래 사항은 통합 사이트의 필수 사항으로 하며, 일부 사이트에 특정 서비스를 제공 하기 위해 별도 또는 추가적인 가입절차를 요구할 수 있습니다.
-① 연결된 계정의 이메일(e-Mail)
-② 연결된 계정의 프로필 사진(단, 없으면 생략)
-
-(2) 이용자의 개인정보를 수집 또는 제공할 때에는 당해 이용자의 동의를 받습니다 . 다만 다음 각호의 경우는 그러하지 않습니다.
-① 이용자가 직접 개인정보를 입력한 경우
-② 법률에 특별한 규정이 있는 경우
-④ 범죄에 대한 수사상의 목적으로 국가기관의 요구가 있는 경우
-④ 정보통신윤리위원회의 요청이 있는 경우
-(3) 이용자는 언제나 자신의 정보를 열람, 정정하거나 삭제를 요청할 수 있으며, 회사는 요청을 받은 즉시 삭제 등 처리를 해야 합니다.
-(4) 개인정보 관리자를 회사 담당 책임자로 한정하여 취급자를 최소화하며 해당 담당자로 하여금 개인정보의 분실, 도난, 유출, 변조 등에 의한 책임을 지게 합니다.
-(5) 개인정보의 수집목적 또는 제공 받은 목적을 달성한 때에는 당해 개인정보를 지체 없이 폐기합니다.
-
-제 12 조 (운영주체의 의무)
-
-(1) 운영주체는 이 약관에서 정한 바에 따라 계속적, 안정적으로 서비스를 제공할 의무가 있습니다.
-(2) 운영주체는 항상 이용자의 신용정보를 포함한 개인신상정보의 보안에 대하여 기술적 안전 조치를 강구하고 관리에 만전을 기함으로써 이용자의 정보보안에 최선을 다하여야 합니다.
-(3) 운영주체는 이용자의 개인신상정보를 본인의 승낙 없이 타인에게 누설, 배포하여서는 안됩니다. 다만, 17조 2항에 해당하는 경우에는 그러하지 아니합니다.
-(4) 운영주체는 이용자로부터 제기되는 의견이나 불만이 정당하다고 인정할 경우에는 즉시 처리하여야 합니다. 다만, 즉시 처리가 곤란한 경우에는 이용자에게 그 사유와 처리일정을 통보하여야 합니다.
-(5) 운영주체는 이용자가 게시판 등에 게재한 정보, 자료, 사실의 신뢰도 및 정확도 등의 내용에 관하여 책임을 지지 않습니다.
-
-제 13 조 (이용자의 의무)
-
-(1) 이용자는 회원가입 신청 또는 회원정보 변경 시 실명으로 모든 사항을 사실에 근거하여 작성하여야 하며, 허위 또는 타인의 정보를 등록할 경우 일체의 권리를 주장할 수 없습니다.
-(2) 회원은 본 약관에서 규정하는 사항과 기타 운영주체가 정한 제반 규정, 공지사항 등 운영주체가 공지하는 사항 및 관계법령을 준수하여야 하며, 기타 운영주체의 업무에 방해가 되는 행위, 운영주체의 명예를 손상시키는 행위를 해서는 안됩니다.
-(3) 운영주체가 관계법령 및 '개인정보 보호정책'에 의거하여 그 책임을 지는 경우를 제외하고 회원에게 부여된 ID 및 비밀번호 관리소홀, 부정사용에 의하여 발생하는 모든 결과에 대한 책임은 회원에게 있습니다.
-(4) 회원은 운영주체의 사전 승낙 없이 서비스를 이용하여 영업활동을 할 수 없으며, 그 영업활동의 결과에 대해 회사는 책임을 지지 않습니다. 또한 회원은 이와 같은 영업활동으로 회사가 손해를 입은 경우, 회원은 회사에 대해 손해배상 의무를 지며, 운영주체는 해당 회원에 대해 서비스 이용제한 및 적법한 절차를 거쳐 손해배상 등을 청구할 수 있습니다.
-(5) 회원은 운영주체의 명시적 동의가 없는 한 서비스의 이용권한, 기타 이용계약상의 지위를 타인에게 양도, 증여할 수 없으며 이를 담보로 제공할 수 없습니다.
-(6) 회원은 운영주체 및 제 3자의 지적 재산권을 침해해서는 안됩니다.
-(7) 회원은 다음 각 호에 해당하는 행위를 하여서는 안되며, 해당 행위를 하는 경우에 운영주체는 회원의 서비스 이용제한 및 적법 조치를 포함한 제재를 가할 수 있습니다.
-① 회원가입 신청 또는 회원정보 변경 시 허위내용을 등록하는 행위
-② 다른 이용자의 ID, 비밀번호, 주민등록번호를 도용하는 행위
-③ 이용자 ID를 타인과 거래하는 행위
-④ 운영주체의 운영진, 직원 또는 관계자를 사칭하는 행위
-⑤ 운영주체로부터 특별한 권리를 부여 받지 않고 회사의 클라이언트 프로그램을 변경하거나, 운영주체의 서버를 해킹하거나, 사이트 또는 게시된 정보의 일부분 또는 전체를 임의로 변경 하는 행위
-⑥ 서비스에 위해를 가하거나 고의로 방해하는 행위
-⑦ 본 서비스를 통해 얻은 정보를 운영주체의 사전 승낙 없이 서비스 이용 외의 목적으로 복제하거나, 이를 출판 및 방송 등에 사용하거나, 제 3자에게 제공하는 행위
-⑧ 공공질서 및 미풍양속에 위반되는 저속, 음란한 내용의 정보, 문장, 도형, 음향, 동영상을 전송, 게시, 전자우편 또는 기타의 방법으로 타인에게 유포하는 행위
-⑨ 모욕적이거나 개인신상에 대한 내용이어서 타인의 명예나 프라이버시를 침해할 수 있는 내용을 전송, 게시, 전자우편 또는 기타의 방법으로 타인에게 유포하는 행위
-⑩ 다른 이용자를 희롱 또는 위협하거나, 특정 이용자에게 지속적으로 고통 또는 불편을 주는 행위
-⑪ 운영주체의 승인을 받지 않고 다른 사용자의 개인정보를 수집 또는 저장하는 행위
-
-# 제 5장 계약 해지 및 서비스 이용 제한
-
-제 14 조 (계약 해지 및 이용제한)
-
-회사는 이용자가 다음 사항에 해당하는 행위를 하였을 경우 사전 통지 없이 이용계약을 해지하거나 또는 기간을 정하여 서비스 이용을 중지할 수 있습니다.
-① 공공 질서 및 미풍 양속에 반하는 경우
-② 범죄적 행위에 관련되는 경우
-③ 이용자가 국익 또는 사회적 공익을 저해할 목적으로 서비스 이용을 계획 또는 실행할 경우
-④ 타인의 서비스 아이디 및 비밀번호를 도용한 경우
-⑤ 타인의 명예를 손상시키거나 불이익을 주는 경우
-⑥ 같은 사용자가 다른 아이디로 이중 등록을 한 경우
-⑦ 서비스에 위해를 가하는 등 서비스의 건전한 이용을 저해하는 경우
-⑧ 기타 관련법령이나 운영주체가 정한 이용조건을 위배하는 경우
-
-제 15 조 (이용 제한의 해제 절차)
-
-(1) 운영주체는 제 19 조의 규정에 의하여 이용제한을 하고자 하는 경우에는 그 사유, 일시 및 기간을 정하여 서면 또는 전화 등의 방법에 의하여 해당 이용자 또는 대리인에게 통지합니다. 다만, 운영주체가 긴급하게 이용을 정지할 필요가 있다고 인정하는 경우에는 그러하지 아니합니다.
-(2) 제1항의 규정에 의하여 이용정지의 통지를 받은 이용자 또는 그 대리인은 그 이용정지의 통지에 대하여 이의가 있을 때에는 이의신청을 할 수 있습니다.
-(3) 운영주체는 제2항의 규정에 의한 이의신청에 대하여 그 확인을 위한 기간까지 이용정지를 연기할 수 있으며, 그 결과를 이용자 또는 그 대리인에게 통지합니다.
-(4) 운영주체는 이용정지 기간 중에 그 이용정지 사유가 해소된 것이 확인된 경우에는 이용정지 조치를 즉시 해제합니다.
-
-제 16 조 (이용자의 게시물)
-
-운영주체는 이용자가 게시하거나 등록하는 서비스 내의 내용물이 다음 각 사항에 해당된다고 판단되는 경우에 사전 통지 없이 삭제할 수 있습니다.
-(1) 다른 이용자 또는 제 3자를 비방하거나 중상모략으로 명예를 손상시키는 내용인 경우
-(2) 공공질서 및 미풍양속에 위반되는 내용인 경우
-(3) 범죄적 행위에 결부된다고 인정되는 내용인 경우
-(4) 제3자의 저작권 등 기타 권리를 침해하는 내용인 경우
-(5) 운영주체에서 규정한 게시물 원칙에 어긋나거나, 게시판 성격에 부합하지 않는 경우
-(6) 영리를 목적으로 하는 광고일 경우
-(7) 기타 관계 법령이나 운영주체에서 정한 규정에 위배되는 경우
-
-# 제 6장 저작권의 귀속
-
-(1) 운영주체에서 제공하는 모든 저작물의 저작권 및 기타 지적재산권은 운영주체에 귀속합니다.
-(2) 이용자는 서비스를 이용함으로써 얻은 정보를 회사의 사전 승낙 없이 복제, 송신, 출판, 재배포, 방송 기타 방법에 의하여 영리목적으로 이용할 수 없습니다. (단, 이용자가 사적으로 이용하는 경우는 그러하지 아니합니다.)
-(3) 운영주체에서 링크를 통해 제공하는 다른 사이트의 비밀 보장 관행과 사이트의 내용에 관해서는 책임지지 않습니다.
-(4) 운영주체는 회원이 게시하거나 등록하는 서비스 내의 내용물, 게시 내용에 대해 제 21조 각 항에 해당된다고 판단되는 경우 사전통지 없이 삭제하거나 이동 또는 등록 거부 할 수 있습니다.
-
-# 제 7장 손해배상 및 기타 사항
-
-제 17 조 (손해배상)
-
-운영주체는 서비스의 이용과 관련하여 개인정보보호정책에서 정하는 내용에 해당하지 않는 사항에 대하여는 어떠한 손해도 책임을 지지 않습니다.
-
-제 18 조 (면책조항)
-
-(1) 운영주체는 천재지변, 전쟁 및 기타 이에 준하는 불가항력으로 인하여 서비스를 제공할 수 없는 경우에는 서비스 제공에 대한 책임이 면제됩니다.
-(2) 운영주체는 기간통신 사업자가 전기통신 서비스를 중지하거나 정상적으로 제공하지 아니하여 손해가 발생한 경우 책임이 면제됩니다.
-(3) 운영주체는 서비스용 설비의 보수, 교체, 정기점검, 공사 등 부득이한 사유로 발생한 손해에 대한 책임이 면제됩니다.
-(4) 운영주체는 회원의 귀책사유로 인한 서비스 이용의 장애 또는 손해에 대하여 책임을 지지 않습니다.
-(5) 운영주체는 이용자의 컴퓨터 오류에 의해 손해가 발생한 경우, 또는 회원이 신상정보 및 전자우편 주소를 부실하게 기재하여 손해가 발생한 경우 책임을 지지 않습니다.
-(6) 운영주체는 회원이 서비스를 이용하여 기대하는 수익을 얻지 못하거나 상실한 것에 대하여 책임을 지지 않습니다.
-(7) 운영주체는 회원이 서비스를 이용하면서 얻은 자료로 인한 손해에 대하여 책임을 지지 않습니다.
-또한 운영주체는 회원이 서비스를 이용하며 타 회원으로 인해 입게 되는 정신적 피해에 대하여 보상할 책임을 지지 않습니다.
-(8) 운영주체는 회원이 서비스에 게재한 각종 정보, 자료, 사실의 신뢰도, 정확성 등 내용에 대하여 책임을 지지 않습니다.
-(9) 운영주체는 이용자 상호간 및 이용자와 제 3자 상호 간에 서비스를 매개로 발생한 분쟁에 대해 개입할 의무가 없으며, 이로 인한 손해를 배상할 책임도 없습니다.
-(10) 운영주체는 회원에게 무료로 제공하는 서비스의 이용과 관련해서는 어떠한 손해도 책임을 지지 않습니다.
+3. 해킹 등에 대비한 기술적 대책
+<platz team>(‘Platz’)은 해킹이나 컴퓨터 바이러스 등에 의한 개인정보 유출 및 훼손을 막기 위하여 보안프로그램을 설치하고 주기적인 갱신·점검을 하며 외부로부터 접근이 통제된 구역에 시스템을 설치하고 기술적/물리적으로 감시 및 차단하고 있습니다.
+4. 개인정보에 대한 접근 제한
+개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여,변경,말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다.
+제8조(개인정보 자동 수집 장치의 설치•운영 및 거부에 관한 사항)
+① platz team 은(는) 이용자에게 개별적인 맞춤서비스를 제공하기 위해 이용정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)’를 사용합니다.
+② 쿠키는 웹사이트를 운영하는데 이용되는 서버(http)가 이용자의 컴퓨터 브라우저에게 보내는 소량의 정보이며 이용자들의 PC 컴퓨터내의 하드디스크에 저장되기도 합니다.
+가. 쿠키의 사용 목적 : 이용자가 방문한 각 서비스와 웹 사이트들에 대한 방문 및 이용형태, 인기 검색어, 보안접속 여부, 등을 파악하여 이용자에게 최적화된 정보 제공을 위해 사용됩니다.
+나. 쿠키의 설치•운영 및 거부 : 웹브라우저 상단의 도구>인터넷 옵션>개인정보 메뉴의 옵션 설정을 통해 쿠키 저장을 거부 할 수 있습니다.
+다. 쿠키 저장을 거부할 경우 맞춤형 서비스 이용에 어려움이 발생할 수 있습니다.
+제9조 (개인정보 보호책임자) 
+①  platz team 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+:앞쪽_화살표: 개인정보 보호책임자 
+성명 :이채원
+직책 :대표
+직급 :대표
+연락처 : gameplatz21@gmail.com
+② 정보주체께서는 platz team 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. platz team 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+제10조(가명정보의 처리)
+< platz team > 은(는) 다음과 같은 목적으로 가명정보를 처리하고 있습니다.
+:앞쪽_화살표: 가명정보의 처리 목적
+- 서비스 내에서 편리한 이용을 위해 이용하는 게임의 가명정보를 입력받고, 자동으로 서비스 내 매칭 서비스를 제공해 드리기 위해 이를 서버에 전송해 저장합니다.
+:앞쪽_화살표: 가명정보의 처리 및 보유기간
+- 3년
+:앞쪽_화살표: 가명처리하는 개인정보의 항목
+- 사용자가 직접 입력한 게임의 가명정보
+제11조(개인정보 열람청구)
+정보주체는 ｢개인정보 보호법｣ 제35조에 따른 개인정보의 열람 청구를 아래의 부서에 할 수 있습니다.
+< platz team >은(는) 정보주체의 개인정보 열람청구가 신속하게 처리되도록 노력하겠습니다. 
+:앞쪽_화살표: 개인정보 열람청구 접수·처리 부서 
+담당자 : 이채원
+연락처 : gameplatz21@gmail.com
+제12조(권익침해 구제방법)
+정보주체는 개인정보침해로 인한 구제를 받기 위하여 개인정보분쟁조정위원회, 한국인터넷진흥원 개인정보침해신고센터 등에 분쟁해결이나 상담 등을 신청할 수 있습니다. 이 밖에 기타 개인정보침해의 신고, 상담에 대하여는 아래의 기관에 문의하시기 바랍니다.
+1. 개인정보분쟁조정위원회 : (국번없이) 1833-6972 (www.kopico.go.kr)
+2. 개인정보침해신고센터 : (국번없이) 118 (privacy.kisa.or.kr)
+3. 대검찰청 : (국번없이) 1301 (www.spo.go.kr)
+4. 경찰청 : (국번없이) 182 (ecrm.cyber.go.kr)
+「개인정보보호법」제35조(개인정보의 열람), 제36조(개인정보의 정정·삭제), 제37조(개인정보의 처리정지 등)의 규정에 의한 요구에 대 하여 공공기관의 장이 행한 처분 또는 부작위로 인하여 권리 또는 이익의 침해를 받은 자는 행정심판법이 정하는 바에 따라 행정심판을 청구할 수 있습니다.
+※ 행정심판에 대해 자세한 사항은 중앙행정심판위원회(www.simpan.go.kr) 홈페이지를 참고하시기 바랍니다.
+제13조(개인정보 처리방침 변경)
+① 이 개인정보처리방침은 2021년 11월 26부터 적용됩니다.
 
 제 19 조 관할 법원
 
